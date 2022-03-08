@@ -1,0 +1,19 @@
+{
+    "name": "abdullah.rahim/google-scrapper-package",
+    "description": "This is a package which contains libraries to scrap google result.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AbdullahRahim\\GoogleScrapperPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "abdullah.rahim",
+            "email": "abdullah.rahim@seera.sa"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
